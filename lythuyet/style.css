@@ -1,0 +1,46 @@
+/* h1{
+    background-color: red;
+
+}
+@media screen and (max-width: 760px) {
+    h1{
+        background-color: blue;
+    }   
+}
+h3{
+    background-color: rgb(245, 180, 191);
+}
+@media screen and (max-width:1200px){
+    h3{
+        background-color: violet;
+    }
+    
+}
+@media screen and (max-width:1024px){
+    h3{
+        background-color: green;
+    }
+    
+}
+@media screen and (max-width:768px){
+    h3{
+        background-color: rgb(207, 12, 181);
+    }
+    
+}
+@media screen and (max-width:480px){
+    h3{
+        background-color: rgb(238, 254, 97);
+    }
+    
+} */
+@media screen and (min-width:480px){
+    h3{
+        background-color: rgb(238, 254, 97);
+    }
+}
+@media screen and (min-width:480px){
+    h3{
+        background-color: rgb(238, 254, 97);
+    }
+}
